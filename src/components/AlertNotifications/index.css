@@ -1,0 +1,37 @@
+/* Write your CSS here */
+
+.alert-notification-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.alert-heading {
+  font-family: Roboto;
+  font-size: 25px;
+}
+
+.success {
+  color: #2dca73;
+  margin-right: 25px;
+}
+
+.error {
+  color: #ff0b37;
+  margin-right: 25px;
+}
+
+.warning {
+  color: #ffb800;
+  margin-right: 25px;
+}
+
+.info {
+  color: #0f81e0;
+  margin-right: 25px;
+}
+
+.alert-message {
+  color: #475569;
+}

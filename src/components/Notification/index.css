@@ -1,0 +1,19 @@
+/* Write your CSS here */
+
+.notification-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 600px;
+  border: 2px solid #e5e5e5;
+  padding: 15px;
+  margin-bottom: 15px;
+}
+
+.notification-inner {
+  display: flex;
+  justify-content: flex-start;
+  align-content: flex-start;
+  width: 600px;
+  margin-top: 0px;
+}
